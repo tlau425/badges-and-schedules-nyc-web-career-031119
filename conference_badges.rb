@@ -21,6 +21,6 @@ def assign_rooms(array)
   return new_array
 end
 
-def printer
+def printer(array)
   badge_maker
   assign_rooms
